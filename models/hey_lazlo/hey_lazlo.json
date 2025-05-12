@@ -3,7 +3,7 @@
   "wake_word": "hey lazlo",
   "author": "Kevin Ahrendt",
   "website": "https://www.kevinahrendt.com/",
-  "model": "hey_lazlo_v2.tflite",
+  "model": "hey_lazlo.tflite",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
