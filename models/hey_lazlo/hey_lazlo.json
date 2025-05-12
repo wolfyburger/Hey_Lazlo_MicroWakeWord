@@ -1,13 +1,13 @@
 {
   "type": "micro",
   "wake_word": "hey lazlo",
-  "author": "Kevin Ahrendt",
-  "website": "https://www.kevinahrendt.com/",
+  "author": "wolfyburger",
+  "website": "https://github.com/wolfyburger/Hey_Lazlo_MicroWakeWord/",
   "model": "hey_lazlo.tflite",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
-    "probability_cutoff": 0.85,
+    "probability_cutoff": 0.60,
     "feature_step_size": 10,
     "sliding_window_size": 5,
     "tensor_arena_size": 37000,
